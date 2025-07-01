@@ -242,5 +242,7 @@ MongoDB Aggregation Framework is powerful for data analysis and reporting. The k
 
 ## 📝 Author
 
-**Hasitha Sandeepa**
-(hasithasandeepa2000@gmail.com)
+**👤 Hasitha Sandeepa**
+
+- 🔗 [GitHub](https://github.com/HasithaSandeepa)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hasitha-sandeepa/)
